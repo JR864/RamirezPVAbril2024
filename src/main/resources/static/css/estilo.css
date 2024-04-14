@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+:root{
+    --facebook: #1442c4;
+    --instagram: #c940e4;
+    --tiktok: #140266;
+    --whatsapp: #04a133;
+}
+
+
+.col-8{
+    display: flex;
+    text-align: center;
+    color: darkgray;
+}
+.col-8 img{
+    height: 60px;
+
+}
+
+.col-4 ul li{
+padding: 10px;
+display: inline-block;
+width: 30px;
+
+}
